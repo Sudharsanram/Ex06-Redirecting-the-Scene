@@ -58,11 +58,10 @@ public class cube : MonoBehaviour
 }
 ```
 ### Output:
-![alt text](<Screenshot 2024-05-11 210343.png>) 
+![alt text](<Screenshot 2024-05-11 210315.png>)
 
 ![alt text](<Screenshot 2024-05-11 210239.png>) 
 
-![alt text](<Screenshot 2024-05-11 210315.png>)
-
+![alt text](<Screenshot 2024-05-11 210343.png>) 
 ### Result:
 The above C# coding is successfully redirecting the scene in the unity engine.
